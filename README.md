@@ -7,12 +7,11 @@ Mobile Developer
 
 After graduating from university with a Bachelor of Engineering degree, specialized in Computer Science, I embarked on my journey to become a professional mobile developer. I have a passion for working with visuals and strive to create the best possible user experience through my work.
 
-* 🌍  I'm based in Ho Chi Minh, Vietnam 🇻🇳
+* 🌍🇻🇳🇰🇷
 * 🧑‍🎓  Ho Chi Minh City University of Technology (intake 2018)
 * ✉️  You can contact me at [work.taithai@gmail.com](mailto:work.taithai@gmail.com)
 * 🧠  I'm learning Flutter, Computer Vision, NLP
 * 🤝  I'm open to collaborating on IoT, Computer Vision
-### 🇻🇳🇰🇷
 
 ### Skills
 
