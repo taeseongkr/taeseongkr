@@ -7,8 +7,8 @@ Mobile Developer
 
 After graduating from university with a Bachelor of Engineering degree, specialized in Computer Science, I embarked on my journey to become a professional mobile developer. I have a passion for working with visuals and strive to create the best possible user experience through my work.
 * ✉️  You can contact me at [work.taithai@gmail.com](mailto:work.taithai@gmail.com)
-* 🧠  I'm learning Flutter, Computer Vision, NLP
-* 🤝  I'm open to collaborating on IoT, Computer Vision
+* 🧠  I'm Unreal Engine and developing virtual robot engines in simulation
+* 🤝  I'm open to collaborating on IoT, Computer Vision, mobile applications
 
 ### Skills
 
