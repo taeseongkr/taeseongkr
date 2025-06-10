@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 김태성입니다
 ================================================================================================================================
 
-Mobile Developer
+Software Engineer
 ----------------
 
 After graduating from university with a Bachelor of Engineering degree, specialized in Computer Science, I embarked on my journey to become a professional developer. I have a passion for working with visuals and strive to create the best possible user experience through my work.
