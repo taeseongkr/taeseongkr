@@ -6,12 +6,9 @@ Software Engineer
 ----------------
 Solution-focused engineer crafting full-stack applications with intelligent AI features, from system design to server and UI.
 
-* ✉️  You can contact me at [work.taithai@gmail.com](mailto:work.taithai@gmail.com)
-* 🧠  I'm working on developing virtual robot engines in simulation using Unreal Engine, Multi Agents System
-* 🤝  I'm open to collaborate on AI solution, Web, Mobile Application
-
-### Skills
-
+* ✉️  [work.taithai@gmail.com](mailto:work.taithai@gmail.com)
+* 🧠  developing virtual robot engines in simulation using Unreal Engine, Multi Agents System
+* 🤝  open to collaborate on AI solution, Web, Mobile Application
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
