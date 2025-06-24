@@ -6,7 +6,7 @@ Software Engineer
 ----------------
 Solution-focused engineer crafting full-stack applications with intelligent AI features, from system design to server and UI.
 
-* ✉️  [work.taithai@gmail.com](mailto:work.taithai@gmail.com)
+* ✉️  [work.taithai@gmail.com](mailto: dylanthai1103@gmail.com)
 * 🧠  developing virtual robot engines in simulation using Unreal Engine, Multi Agents System
 * 🤝  open to collaborate on AI solution, Web, Mobile Application
 
